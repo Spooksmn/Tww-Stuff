@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("old")
+game.Players.LocalPlayer:Kick("Updating it rn pls wait")
